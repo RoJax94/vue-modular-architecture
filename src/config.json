@@ -1,0 +1,14 @@
+{
+  "http": {
+    "baseURL": "/api"
+  },
+  "router": {
+    "base": "/"
+  },
+  "store": {
+    "logger": {
+      "logActions": true,
+      "logMutations": true
+    }
+  }
+}
